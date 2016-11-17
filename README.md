@@ -125,6 +125,6 @@ Disponível na [Amazon](https://www.amazon.com/gp/product/1466598646/ref=as_li_t
 
 ---
 
-![Joy](https://gist.githubusercontent.com/rgrcnh/60af13a2b0ac37d0872542288049d0f6/raw/e7c318469ada9d6808ca455765134a55e03e646e/joy.png)
+![Joy](https://github.com/rgrcnh/gamedevelopguide/blob/master/pics/joy.png)
 
 Rogério "rgrcnh" Cunha
