@@ -18,6 +18,8 @@ Isso aí. Documentar é chato, mas, especialmente quando estiver trabalhando com
 
 A principal regra do design, na minha opinião, é manter o desenho do seu jogo tão simples quanto a sua capacidade de produzí-lo. Ideias complexas, jogos com muitas fases ou que contenham muitos recursos visuais podem requerer mais esforço (tempo e dinheiro) que a equipe possui para produzí-lo.
 
+Cuidado, não confunda Game Design com Game Development. Game Design é uma atividade do Game Development. E tem mais Game Design pode ser praticado por qualquer um da equipe, quando este contribui com ideias para o jogo, o que é comum, pois ao longo do desenvolvimento é esperado que ideias sejam aprimoradas ou renovadas. 
+
 * Arte:  
 
 Compreende pensar, desenhar e produzir toda parte visual e sonorização do jogo. Além de métodos convencionais como papel e lápis para criar os esboços em conjunto com mesas digitalizadoras, existem ferramentas específicas para desenho dos modelos, como o Maya, Blender para modelagem e  outras para criação dos áudios. Outra forma de lidar com a arte, caso sua você ou sua equipe não tenha esta habilidade, é buscar em bancos públicos de "assets" as artes que combinam com o seu desenho de jogo, ou mesmo contratar alguém para executar esta parte. Usar bancos públicos de imagem ou imagens já conhecidas podem comprometer a marca visual que vai ajudar a diferenciar seu jogo da concorrência.
