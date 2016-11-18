@@ -18,7 +18,7 @@ Isso aí. Documentar é chato, mas, especialmente quando estiver trabalhando com
 
 A principal regra do design, na minha opinião, é manter o desenho do seu jogo tão simples quanto a sua capacidade de produzí-lo. Ideias complexas, jogos com muitas fases ou que contenham muitos recursos visuais podem requerer mais esforço (tempo e dinheiro) que a equipe possui para produzí-lo.
 
-Cuidado, não confunda Game Design com Game Development. Game Design é uma atividade do Game Development. E tem mais Game Design pode ser praticado por qualquer um da equipe, quando este contribui com ideias para o jogo, o que é comum, pois ao longo do desenvolvimento é esperado que ideias sejam aprimoradas ou renovadas. 
+Mas cuidado! Não confunda Game Design com Game Development. Game Design é uma atividade do Game Development, tal qual a arte, programação etc. E tem mais: Game Design pode ser praticado por qualquer componente da equipe, ao contribuir com ideias, o que é comum, pois ao longo do desenvolvimento é esperado que ideias sejam aprimoradas ou renovadas. Game Design é mais uma função que uma pessoa. 
 
 * Arte:  
 
