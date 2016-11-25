@@ -28,8 +28,9 @@ Compreende pensar, desenhar e produzir toda parte visual e sonorização do jogo
 
 Programação envolve usar os conhecimentos de desenvolvimento de software para auxiliar na montagem dos aspectos comportamentais que o jogo terá. As plataformas de criação de jogos, como o Unity ou o Cocos2D possuem motores de execução "engines" que limitam os tipos de linguagem de programação que poderão ser usadas. Você pode consultar na wikipedia para ver detalhes sobre quais linguagens cada plataforma suporta.
 
-Engines, em geral, usam uma linguagem capaz de ser compilada, para tarefas mais pesadas  (em geral, C# ou C++) e outra, interpretada, conhecida como linguagem de script, para tarefas mais simples (em geral Lua). Aqui ocorrerá a programação das condições físicas de trajetória, colisão, rebatimento, rotação, travessia e outros detalhes.
-Também são nas plataformas de desenvolvimento de jogos que serão importados os recursos ("assets") criados pela time de Arte, contendo os gráficos, as texturas e os sons, que serão aplicados aos objetos do jogo. 
+Engines, em geral, usam uma linguagem capaz de ser compilada, para tarefas mais pesadas  (em geral, C# ou C++) e outra, interpretada, conhecida como linguagem `script`, para tarefas mais simples (em geral Lua). Aqui ocorrerá a programação das condições físicas de trajetória, colisão, rebatimento, rotação, travessia e outros detalhes que envolvem o comportamento dos objetos.
+
+Também são nas plataformas de desenvolvimento de jogos que serão importados os recursos visuais e sonoros (chamados "assets") criados pela time de Arte, contendo os gráficos, as texturas e os sons, que serão aplicados aos objetos do jogo. 
 
 * Produção:  
 
@@ -43,7 +44,7 @@ Esta fase ocorre em paralelo com as demais e compreende:
   d. adaptar o planejamento, quando necessário.
   e. envolver o responsável pelo design para ajustes quando necessário.
 
----
+___
 
 # Detalhando as etapas
 
@@ -115,8 +116,7 @@ Esta etapa inclui as fases abaixo.
  - ao fracassar;
  - para chamar a atenção ao surgir um objeto;
 
----
-
+___
 
 ## Os finalmentes:
 
@@ -125,8 +125,8 @@ Espero que tenha gostado deste guia (:+1:). Apesar de simples, que tenha servido
 The Art of Game Design: A Book of Lenses, Second Edition 2nd Edition. Autor: Jesse Schell
 Disponível na [Amazon](https://www.amazon.com/gp/product/1466598646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466598646&linkCode=as2&tag=wwwlifebinder-20&linkId=TVQMXFVTZUVJB3MH) ou em outras lojas.  
 
----
+___
 
-![Joy](https://github.com/rgrcnh/gamedevelopguide/blob/master/pics/joy.png)
+[Joy](https://github.com/rgrcnh/gamedevelopguide/blob/master/pics/joy.png)
 
 Rogério "rgrcnh" Cunha
