@@ -100,7 +100,7 @@ Dentro dos aspectos abordados por quem cumprir o papel da arte, estão as ilustr
 
 Idealização da Arte Final compreende as imagens, figuras, músicas, fontes das letras e todos os aspectos estéticos, no formato final.  *Atenção:* Não esqueça os direitos autorais aqui. No Brasil regra de jogo não podem ser patenteadas, mas desenhos, figuras, logos e outros detalhes podem ter direto de marcas.
 
-Uma boa para quem tem pouco tempo ou habilidade com a arte, é pesquisar bases de dados com "assets" <sup id="back1">[1](#f1)</sup> disponíveis para uso na Internet, com ou sem pagamento de "royalties", que combinem com seus objetivos de jogo e idealização de cenários. Alguns engines, como o Unity, já trazem uma biblioteca razoável para prototipagem.
+Uma boa para quem tem pouco tempo ou habilidade com a arte, é pesquisar bases de dados com "assets" <sup id="b1">[1](#f1)</sup> disponíveis para uso na Internet, com ou sem pagamento de "royalties", que combinem com seus objetivos de jogo e idealização de cenários. Alguns engines, como o Unity, já trazem uma biblioteca razoável para prototipagem.
 
 
 Esta etapa inclui as fases abaixo.
@@ -130,9 +130,9 @@ Espero que tenha gostado deste guia (:+1:). Apesar de simples, que tenha servido
 
 ___
 
-## Glossário
+## Glossário e Notas
 
-<b id="f1">1</b> *Assets*: formam a "biblioteca" de elementos e comportamentos do jogo, como os personagens gráficos, objetos físicos, cenários, padronagens (texturas), sons e scripts, sendo que os scripts, responsáveis por fornecer os comportamentos aos objetos, serão deixados para serem pesquisados/desenvolvidos na fase de programação. [↩](#a1)
+<b id="f1">1</b> *Assets*: formam a "biblioteca" de elementos e comportamentos do jogo, como os personagens gráficos, objetos físicos, cenários, padronagens (texturas), sons e scripts, sendo que os scripts, responsáveis por fornecer os comportamentos aos objetos, serão deixados para serem pesquisados/desenvolvidos na fase de programação. [↩](#b1)
 ___
 
 ## Refências:
