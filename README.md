@@ -122,6 +122,7 @@ Esta etapa inclui as fases abaixo.
   - para chamar a atenção ao surgir um objeto;
   - etc
 - Arte para fins de marketing
+
 ___
 
 ## Os finalmentes:
