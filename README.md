@@ -22,7 +22,7 @@ Mas cuidado! Não confunda Game Design com Game Development. Game Design é uma 
 
 * Arte:  
 
-Compreende pensar, desenhar e produzir toda parte visual e sonorização do jogo. Além de métodos convencionais como papel e lápis para criar os esboços em conjunto com mesas digitalizadoras, existem ferramentas específicas para desenho dos modelos, como o [Maya](http://www.autodesk.com.br/products/maya/overview), [Blender](https://www.blender.org/) para modelagem e  outras para criação dos áudios. Outra forma de lidar com a arte, caso sua você ou sua equipe não tenha esta habilidade, é buscar em bancos públicos de "assets" as artes que combinam com o seu desenho de jogo, ou mesmo contratar alguém para executar esta parte. Usar bancos públicos de imagem ou imagens já conhecidas podem comprometer a marca visual que vai ajudar a diferenciar seu jogo da concorrência.
+Compreende pensar, desenhar e produzir toda parte visual e sonorização do jogo. Além de métodos convencionais como papel e lápis para criar os esboços em conjunto com mesas digitalizadoras, existem ferramentas específicas para desenho dos modelos, como o [Maya](http://www.autodesk.com.br/products/maya/overview), [Blender](https://www.blender.org/) para modelagem e  outras para criação dos áudios. Outra forma de lidar com a arte, caso sua você ou sua equipe não tenha esta habilidade, é buscar em bancos públicos de artes digitais que combinem com o seu desenho de jogo, ou mesmo contratar alguém para executar esta parte. Usar bancos públicos de imagem ou imagens já conhecidas podem comprometer a marca visual que vai ajudar a diferenciar seu jogo da concorrência.
 
 * Programação: 
 
@@ -30,7 +30,7 @@ Programação envolve usar os conhecimentos de desenvolvimento de software para 
 
 Engines, em geral, usam uma linguagem capaz de ser compilada, para tarefas mais pesadas  (em geral, C# ou C++) e outra, interpretada, conhecida como linguagem `script`, para tarefas mais simples (em geral Lua). Aqui ocorrerá a programação das condições físicas de trajetória, colisão, rebatimento, rotação, travessia e outros detalhes que envolvem o comportamento dos objetos.
 
-Também são nas plataformas de desenvolvimento de jogos que serão importados os recursos visuais e sonoros (chamados "assets") criados pela time de Arte, contendo os gráficos, as texturas e os sons, que serão aplicados aos objetos do jogo. 
+Também são nas plataformas de desenvolvimento de jogos que serão importados os recursos visuais e sonoros  criados pela time de Arte, contendo os gráficos, as texturas e os sons, que serão aplicados aos objetos do jogo. 
 
 * Produção:  
 
@@ -96,35 +96,49 @@ Abaixo seguem algumas sugestões para serem pensada especificamente para o desig
 
 ## 2 - Arte
 
-Idealização Sobre a Arte (imagens, figuras, música, formato das fontes das letras, etc). *Atenção:* Não esqueça os direitos autorais aqui. No Brasil regra de jogo não podem ser patenteadas, mas desenhos, figuras, logos e outros detalhes podem ter direto de marcas.
+Dentro dos aspectos abordados por quem cumprir o papel da arte, estão as ilustrações conceituais, o storyboard, a prototipagem da arte, a arte final (production artwork) e a arte com fins promocionais. As ilustrações conceituais servem para auxiliar no "Game Design", pois vão ilustrar aspectos fundamentais do jogo, em esboços. O storyboard tem o mesmo papel das ilustrações conceituais, mas serve para denotar ações e movimentos, ou seja, desenrolares temporais do jogo. A prototipagem serve para gerar arte já em formato digital que possa ser usada pela equipe de produção e programação no desenvolvimento da lógica, a prototipagem tem formatos simples e rápidos de serem produzidos, e que serão substituídos pela arte final no decorrer do desenvolvimento.
 
-Uma boa ideia aqui é pesquisar no google bases de dados com "assets" disponíveis para uso, sem pagamento de "royalties", que combinem com seus objetivos de jogo e idealização de cenários.
+Idealização da Arte Final compreende as imagens, figuras, músicas, fontes das letras e todos os aspectos estéticos, no formato final.  *Atenção:* Não esqueça os direitos autorais aqui. No Brasil regra de jogo não podem ser patenteadas, mas desenhos, figuras, logos e outros detalhes podem ter direto de marcas.
 
-Os Assets formam a "biblioteca" de elementos e comportamentos do jogo, como os personagens gráficos, objetos físicos, cenários, padronagens (texturas), sons e scripts, sendo que os scripts, responsáveis por fornecer os comportamentos aos objetos, serão deixados para serem pesquisados/desenvolvidos na fase de programação.
+Uma boa para quem tem pouco tempo ou habilidade com a arte, é pesquisar bases de dados com "assets" <sup id="back1">[1](#f1)</sup> disponíveis para uso na Internet, com ou sem pagamento de "royalties", que combinem com seus objetivos de jogo e idealização de cenários. Alguns engines, como o Unity, já trazem uma biblioteca razoável para prototipagem.
+
 
 Esta etapa inclui as fases abaixo.
 
-- Esboço dos cenários (fundo ou skybox), para cada fase.
-- Definição de luzes
-- Comportamento da câmera (fixa ou acompanha o personagem principal)
-- Esboço dos objetos que o jogador irá interagir (formato, desenho)
-- Esboço dos personagens (formato, desenho)
-- Quais são os sons usados no jogo:
- - na abertura;
- - nas fases;
- - na hora de fazer um ponto;
- - ao fracassar;
- - para chamar a atenção ao surgir um objeto;
-
+- Esboços conceituais
+- Storyboard
+- Prototipagem da arte, para dar início ao desenvolvimento.
+- Arte Final, contendo:
+ - Cenários (fundo ou skybox), para cada fase.
+ - Definição de luzes
+ - Comportamento da câmera (fixa ou acompanha o personagem principal)
+ - Objetos que o jogador irá interagir (formato, desenho)
+ - Personagens (formato, desenho)
+ - Quais são os sons usados no jogo:
+  - na abertura;
+  - nas fases;
+  - na hora de fazer um ponto;
+  - ao fracassar;
+  - para chamar a atenção ao surgir um objeto;
+  - etc
+- Arte para fins de marketing
 ___
 
 ## Os finalmentes:
 
-Espero que tenha gostado deste guia (:+1:). Apesar de simples, que tenha servido ao menos para despertar sua atenção para a organização necessária no desenvolvimento de um jogo, desde a ideia até a concretização. Não pare por aqui, para saber mais sobre o assunto, recomendo ler a referência abaixo.
+Espero que tenha gostado deste guia (:+1:). Apesar de simples, que tenha servido ao menos para despertar sua atenção para a organização necessária no desenvolvimento de um jogo, desde a ideia até a concretização. Não pare por aqui, para saber mais sobre o assunto, recomendo começar pela Internet ou consultar as referências do texto.
+
+___
+
+## Glossário
+
+<b id="f1">1</b> *Assets*: formam a "biblioteca" de elementos e comportamentos do jogo, como os personagens gráficos, objetos físicos, cenários, padronagens (texturas), sons e scripts, sendo que os scripts, responsáveis por fornecer os comportamentos aos objetos, serão deixados para serem pesquisados/desenvolvidos na fase de programação. [↩](#a1)
+___
+
+## Refências:
 
 The Art of Game Design: A Book of Lenses, Second Edition 2nd Edition. Autor: Jesse Schell
-Disponível na [Amazon](https://www.amazon.com/gp/product/1466598646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466598646&linkCode=as2&tag=wwwlifebinder-20&linkId=TVQMXFVTZUVJB3MH) ou em outras lojas.  
-
+Disponível na [Amazon](https://www.amazon.com/gp/product/1466598646/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466598646&linkCode=as2&tag=wwwlifebinder-20&linkId=TVQMXFVTZUVJB3MH) ou em outras lojas. 
 ___
 
 [Joy](https://github.com/rgrcnh/gamedevelopguide/blob/master/pics/joy.png)
